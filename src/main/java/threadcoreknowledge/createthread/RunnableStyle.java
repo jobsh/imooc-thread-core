@@ -1,6 +1,7 @@
 package threadcoreknowledge.createthread;
 
 public class RunnableStyle implements Runnable {
+
     public void run() {
         System.out.println("实现Runnable接口，实现run()方法");
     }
